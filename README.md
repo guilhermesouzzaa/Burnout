@@ -1,5 +1,5 @@
 # Projeto de machine learning para previsão de Burnout em funcionários
-Este projeto foi feito além da machine learning extremamente acertiva, uma exploração de dados que pode oferecer alguns insides sobre os dados.
+Este projeto combina um modelo de machine learning altamente preciso com uma análise exploratória de dados aprofundada, proporcionando insights valiosos e fundamentados sobre o conjunto de dados analisado.
 
 
 ## 🔧 Objetivo
