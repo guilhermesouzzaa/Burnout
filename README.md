@@ -27,9 +27,11 @@ Tivemos um ótimo aproveitamento nas ML's, utilizando dois métodos, um dos algo
 e o outro não paramétrico(árvore de decisão)
 
 Resumo do modelo paramétrico:
+
 ![Captura de tela de 2024-11-24 16-42-05](https://github.com/user-attachments/assets/1246970e-81bb-4872-8989-4315df7215c2)
 
 Resumo do modelo não paramétrico:
+
 ![Captura de tela de 2024-11-24 16-43-08](https://github.com/user-attachments/assets/0e4d7cc9-ab3c-4e2a-b502-0e336418053d)
 
 
