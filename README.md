@@ -4,7 +4,7 @@ Este projeto combina um modelo de machine learning altamente preciso com uma an�
 
 ## 🔧 Objetivo
 
-- Utilizar machine learning para prevenção da sindorme de Brunout
+- Utilizar machine learning para prevenção da sindorme de Burnout
 
 ## 💻 Projeto
 O projeto foi desenvolvido totalmente em Python, com o objetivo de trazer insides e previsão da sindrome de Bornout
@@ -15,6 +15,8 @@ Utilizando apenas **PYTHON** e o **Google Colab**, pacotes utilizados:
 > - Pandas
 > - Numpy
 > - Matplotilib
+> - scipy
+> - sklearn
 
 
 ## Print de alguns dos insides encontrados nos dados
